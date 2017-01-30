@@ -28,7 +28,6 @@
 					    var clickCount = 0;
 
 					    function onClick() {
-					        clickCount += 3;
 					        buttonText.value = 'Clicks: ' + clickCount;
 					    }
 
